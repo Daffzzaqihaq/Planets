@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Planets</string>
+
+    <string-array name="planets_name">
+        <item>Jupiter</item>
+        <item>Saturnus</item>
+        <item>Uranus</item>
+        <item>Neptunus</item>
+        <item>Bumi</item>
+        <item>Venus</item>
+        <item>Mars</item>
+        <item>Merkurius</item>
+    </string-array>
+
+    <string-array name="planets_detail">
+        <item>Urutan planet terbesar di tata surya kita adalah Jupiter. Jupiter mempunyai diameter sekitar 143.000 kilometer dan berjarak 778 juta kilometer dari matahari. Selain itu, planet Jupiter mempunyai waktu rotasi yang cukup cepat yaitu 9,8 jam serta menghabiskan waktu sekitar 11,9 tahun untuk melakukan sekali revolusi. Planet ini termasuk planet gas, karena ukurannya yang sangat besar, Jupiter juga mempunyai gaya gravitasi yang besar pula. Oleh karena itu, Jupiter mampu menjadi penyelamat bagi benda langit yang lainnya. Pernah suatu ketika ada benda asing yang ingin mengarah ke bumi ketika melintas di dekat Jupiter benda tersebut tertarik oleh gravitasi Jupiter.</item>
+        <item>Urutan planet dari terbesar berikutnya adalah planet Saturnus. Saturnus merupakan planet yang unik karena menjadi satu-satunya planet yang memiliki cincin yang mengelilinginya. Cincin yang dimiliki planet Saturnus terbuat dari partikel debu dan juga es. Karena cincinnya tersebut planet ini dinobatkan sebagai planet yang terindah dalam tata surya kita.
+            Planet Saturnus mempunyai diameter sekitar 120.000 kilometer dan berjarak 1427 juta kilometer dari bumi. Selain itu, Saturnus menghabiskan waktu selama 10,2 jam untuk melakukan sekali rotasi serta membutuhkan waktu sekitar 29,5 tahun untuk sekali berevolusi. Saturnus juga tergolong planet gas karena sebagian besar daerahnya tersebut terdiri dari gas. Oleh karena letaknya yang sangat jauh dari matahari, maka suhu di Saturnus ini juga sangat dingin.</item>
+        <item>Planet Uranus menjadi urutan planet terbesar ketika dalam tata surya kita. Uranus juga menjadi planet terjauh kedua dari matahari setelah Neptunus. Planet Uranus juga disebut sebagai kembaran dari Neptunus karena kemiripan yang dimilikinya. Uranus memiliki diameter sekitar 51.000 kilometer dan berjarak 2870 juta kilometer dari matahari. Selain itu, Uranus ini menghabiskan waktu sekitar 84 tahun hanya untuk melakukan sekali revolusi serta 17,2 jam untuk melakukan satu kali rotasi terhadap porosnya. Uranus memiliki warna kebiru-biruan, sehingga planet ini juga disebut sebagai planet biru. Kabut tebal yang menyelimuti permukaan Uranus menjadikan planet ini masih penuh menjadi misteri.</item>
+        <item>Planet Neptunus menempati urutan planet terbesar keempat dalam tata surya kita. Neptunus juga menjadi planet terjauh dari matahari yaitu sekitar 4497 juta kilometer. Neptunus mempunyai warna yang kehijau-hijauan dan letaknya sangat dari planet kita. Untuk melakukan sekali rotasi planet ini memerlukan waktu 15,8 jam dan 164,8 tahun untuk berevolusi.</item>
+        <item>Urutan planet dari yang terbesar ke lima adalah planet yang kita tinggali yaitu Bumi. Bumi merupakan planet yang sangat mendukung untuk kehidupan makhluk hidup. Hal tersebut dikarenakan planet Bumi mempunyai cadangan air yang sangat banyak dan suhu udara yang cocok untuk kehidupan. Selain karena karakteristik yang sangat mendukung terciptanya sebuah kehidupan, Bumi ini juga mempunyai lapisan udara pelindung yang disebut atmosfer. Atmosfer ini akan mempertahankan sinar matahari sehingga suhu yang ada di bumi tetap hangat. Selain itu, atmosfer bumi juga melindungi bumi dari tabrakan benda asing yang jatuh ke bumi. Planet bumi berjarak 150 juta kilometer dari matahari serta membutuhkan waktu 1 tahun untuk mengitarinya. Bumi membutuhkan 24 jam untuk melakukan sekali rotasi serta memiliki diameter sebesar 12.700 kilometer.</item>
+        <item>Venus menjadi urutan planet terbesar ke enam dalam tata surya. Venus merupakan planet terdekat dari matahari setelah Merkurius. Venus juga dikenal sebagai bintang kejora. Hal tersebut karena apabila dilihat dari Bumi, Venus tampak sangat berkilau bila dibandingkan dengan bintang lainnya. Planet Venus tampak ketika sekali ketika menjelang terbitnya matahari maupun setelah tenggelamnya matahari. Planet ini memiliki diameter sekitar 12.100 kilometer dan mempunyai jarak 108 juta kilometer dari matahari. Untuk melakukan rotasi, Venus membutuhkan waktu yang lebih panjang dibanding revolusinya. Rotasi Venus sekitar 243 hari sementara waktu revolusinya sebesar 225 hari.</item>
+        <item>Urutan planet terbesar ke 7 adalah Mars. Planet Mars juga disebut sebagai planet merah karena apabila dilihat dari bumi planet Mars akan terlihat merah. Planet Mars memiliki diameter sebesar 6800 kilometer dan berjarak 227 juta kilometer dari matahari. Mars memerlukan waktu 24,6 jam untuk berotasi dan 687 hari untuk melakukan revolusi. Baru-baru ini sebuah penelitian menyatakan bahwa Mars memiliki persamaan dengan planet bumi. Salah satunya adalah ditemukannya keberadaan air sehingga kemungkinan di planet ini juga bisa ditemukan adanya kehidupan.</item>
+        <item>Planet Merkurius menjadi urutan planet terbesar ke delapan sekaligus menjadi planet terkecil di tata surya. Selain itu planet ini memiliki jarak paling dekat dengan matahari sehingga suhu siang hari mencapai 217 derajat celcius dan ketika malam hari suhunya langsung turun drastic menjadi -173 derajat celcius. Merkurius mempunyai diameter sekitar 4879 kilometer dan membutuhkan waktu selama 59 hari untuk berotasi serta 88 hari untuk melakukan revolusi.</item>
+    </string-array>
+    <string name="title_activity_detail_planets_actifity">DetailPlanetsActifity</string>
+
+</resources>
